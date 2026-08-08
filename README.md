@@ -4,6 +4,8 @@
 
 <p align="center">Creator Of Sparkle And Lunaar</p>
 
+<p align=“center” >I may be known as “dantae” or “thedogecraft” or “dogecraft”or “realdantae” on other platforms</p>
+
 ###
 
 <div align="center">
